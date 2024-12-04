@@ -22,6 +22,6 @@ This module focuses on a scenario where a single follower drone follows the move
 
 1. Clone the repository:
    ```bash
-   git clone http://10.110.136.81:22280/drone-group/reinforcement-learning.git
+   git clone https://github.com/shKim1617/drone_rl.git
    ```
 2. Python 3.10 and CUDA 12.4 are required. Make sure these versions are installed correctly. Then, install other modules compatible with these Python and CUDA versions.
