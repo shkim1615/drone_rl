@@ -25,3 +25,6 @@ This module focuses on a scenario where a single follower drone follows the move
    git clone https://github.com/shKim1617/drone_rl.git
    ```
 2. Python 3.10 and CUDA 12.4 are required. Make sure these versions are installed correctly. Then, install other modules compatible with these Python and CUDA versions.
+
+3. python3.10 cuda 12.4 cudnn 9.5  
+   파이썬3.11에서 matplotlib가 똑바로 작동안하는 문제 발생
